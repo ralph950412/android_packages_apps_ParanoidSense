@@ -39,7 +39,7 @@
                         android:id="@+id/camera_surface"
                         android:layout_width="240.0dip"
                         android:layout_height="320.0dip"
-                        android:background="#00000000" />
+                        android:background="@drawable/background" />
                 </LinearLayout>
 
                 <FrameLayout
